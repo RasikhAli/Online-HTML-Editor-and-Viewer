@@ -1,0 +1,38 @@
+.body-web {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin-top: 30px;
+    padding: 0;
+}
+
+.body-div {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.body-div textarea {
+    width: 98.5%;
+    height: 300px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.output {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    min-height: 100px; /* Ensure it has some height initially */
+    overflow: auto; /* Allows scrolling if content overflows */
+}
+
+
