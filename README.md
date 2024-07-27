@@ -4,6 +4,8 @@
 
 The Online HTML Editor and Viewer is a simple web application built with Flask that allows users to write and preview HTML code in real-time. It features a text area for HTML input and displays the rendered HTML output directly on the same page. Users can also drag and drop HTML files into the editor for easy file-based editing.
 
+Live at: https://rasikhali.marveloussoft.tech
+
 ## Features
 
 - **Real-Time HTML Preview**: Write HTML code in the text area and see the rendered output immediately.
